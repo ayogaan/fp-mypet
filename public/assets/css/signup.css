@@ -1,0 +1,90 @@
+<<<<<<< HEAD
+.signup{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.note-box{
+    padding-left: 25px;
+    font-size: 12px;
+}
+
+.note-box-R{
+    padding-left: 25px;
+    font-size: 12px;
+    text-align: right;
+    margin: 2px;
+}
+
+.btn-child{
+    background-color: rgb(47, 156, 47);
+    padding: 0px;
+    font-size: 12px;
+}
+
+.fas{
+    cursor: pointer;
+=======
+.signup{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.note-box{
+    padding-left: 25px;
+    font-size: 12px;
+}
+
+.note-box-R{
+    padding-left: 25px;
+    font-size: 12px;
+    text-align: right;
+    margin: 2px;
+}
+
+.btn-child{
+    background-color: rgb(47, 156, 47);
+    padding: 0px;
+    font-size: 12px;
+}
+
+.fas{
+    cursor: pointer;
+}
+
+.fail{
+    border-radius: 5px;
+    padding: 1px;
+    background-color: red;
+    border: 1px;
+    border-color: red;
+}
+
+.img_fp{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+.img_bfp{
+    width: 300px;
+    border-radius: 5px;
+>>>>>>> 25b5b4dfd50d8ad112026366ef0e1eb22a31c49a
+}

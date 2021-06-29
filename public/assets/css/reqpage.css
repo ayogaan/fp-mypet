@@ -1,0 +1,31 @@
+.req-content {
+  max-height: 100%;
+}
+
+.req-user {
+  list-style-type: none;
+}
+
+.req-user li:hover {
+  background-color: chocolate;
+}
+
+.date-proposal {
+  display: inline;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+
+.button-acc {
+  float: right;
+}
+
+.proposal-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  left: 0;
+  padding: 20px;
+}
+/*# sourceMappingURL=reqpage.css.map */

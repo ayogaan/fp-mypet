@@ -1,0 +1,95 @@
+{"hewan": [
+    {
+        "gender": "male",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/kucing-persia-laki.jpg",
+        "_id": "60cb22c9f3380223c35b8559",
+        "name": "Kucing Persia",
+        "bornyear": "1995",
+        "description": "ini kucing persia",
+        "species": "60c5e6d4b96cd62a91a0f755",
+        "__v": 0
+    },
+    {
+        "gender": "female",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/kucing-persia-perempuan.jpg",
+        "_id": "60cb22dcf3380223c35b855a",
+        "name": "Kucing Persia",
+        "bornyear": "1995",
+        "description": "ini kucing persia",
+        "owner": "60c487dc684666cc84756678",
+        "species": "60c5e6d4b96cd62a91a0f755",
+        "__v": 0
+    },
+    {
+        "gender": "male",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/Kucing-Balinese-laki.jpg",
+        "_id": "60cb22edf3380223c35b855b",
+        "name": "Kucing Balinese",
+        "bornyear": "1995",
+        "description": "ini kucing Balinese",
+        "owner": "60c487dc684666cc84756678",
+        "species": "60c5e6d4b96cd62a91a0f755",
+        "__v": 0
+    },
+    
+    {
+        "gender": "female",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/Kucing-Balinese-perempuan.jpg",
+        "_id": "60cca4146d032400047db808",
+        "name": "Kucing Balinese",
+        "bornyear": "1995",
+        "description": "ini kucing Balinese",
+        "species": "60c5e6d4b96cd62a91a0f755",
+        "__v": 0
+    },
+    {
+        "gender": "male",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/anjing-chihuahua-laki.jpg",
+        "_id": "60ccdcf139fec800044989e0",
+        "name": "Anjing Chihuahua",
+        "bornyear": "1995",
+        "description": "ini anjing Chihuahua",
+        "species": "60ccb5aab5bed10004d8caa7",
+        "__v": 0
+    },
+    {
+        "gender": "female",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/anjing-chihuahua-perempuan.jpg",
+        "_id": "60ccdd0939fec800044989e1",
+        "name": "Anjing Chihuahua",
+        "bornyear": "2000",
+        "description": "ini anjing Chihuahua",
+        "species": "60ccb5aab5bed10004d8caa7",
+        "__v": 0
+    },
+    {
+        "gender": "male",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/anjing-labrador-laki.jpg",
+        "_id": "60ccdd2a39fec800044989e2",
+        "name": "Anjing Labrador ",
+        "bornyear": "2000",
+        "description": "ini anjing Labrador ",
+        "species": "60ccb5aab5bed10004d8caa7",
+        "__v": 0
+    },
+    {
+        "gender": "female",
+        "isvaccinated": "yes",
+        "gallery": "assets/img/anjing-labrador-perempuan.jpg",
+        "_id": "60ccdd3039fec800044989e3",
+        "name": "Anjing Labrador ",
+        "bornyear": "2000",
+        "description": "ini anjing Labrador ",
+        "species": "60ccb5aab5bed10004d8caa7",
+        "__v": 0
+    }
+    
+    ]
+ }

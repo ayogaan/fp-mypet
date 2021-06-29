@@ -1,0 +1,11 @@
+#mypet{
+    a{
+        text-decoration: unset;
+        color: black;
+        transition: all 0.1s;
+    }
+    a:hover{
+        background-color: #005E96;
+        color: white;
+    }
+}

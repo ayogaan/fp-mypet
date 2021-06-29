@@ -1,0 +1,16 @@
+.shadow {
+  background-color: white;
+}
+
+.menu-user a {
+  text-decoration: unset;
+  margin-left: 16px;
+  color: #313131;
+  -webkit-transition: 0.3s all;
+  transition: 0.3s all;
+}
+
+.menu-user a:hover {
+  color: blueviolet;
+}
+/*# sourceMappingURL=userprofile.css.map */

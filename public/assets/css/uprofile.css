@@ -1,0 +1,12 @@
+#mypet a {
+  text-decoration: unset;
+  color: black;
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+}
+
+#mypet a:hover {
+  background-color: #005E96;
+  color: white;
+}
+/*# sourceMappingURL=uprofile.css.map */

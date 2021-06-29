@@ -1,0 +1,14 @@
+.shadow{
+    background-color: white;
+}
+.menu-user{
+    a {
+      text-decoration: unset;
+      margin-left: 16px;
+      color: rgb(49, 49, 49);
+      transition: 0.3s all;
+    }
+    a:hover{
+        color: blueviolet;
+    }
+  }
